@@ -1,0 +1,13 @@
+{
+  "id": "cloud_backup",
+  "version": "0.0.1",
+  "name": "CloudBackup",
+  "description": {
+    "en_us": "Back up your Minecraft Server remotely to the Cloud.",
+    "zh_cn": "异地备份您的服务器"
+  },
+  "author": "zhongbai233",
+  "link": "https://github.com/zhongbai2333/CloudBackup",
+  "dependencies": {
+  }
+}
